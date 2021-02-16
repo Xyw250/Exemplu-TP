@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Git\Exemplu-TP\Exemplu\Exemplu\Source.c(11,6): warning C4013: 'sum' undefined; assuming extern returning int
+C:\Git\Exemplu-TP\Exemplu\Exemplu\Source.c(22,6): warning C4013: 'prod' undefined; assuming extern returning int
+C:\Git\Exemplu-TP\Exemplu\Exemplu\Source.c(28,5): warning C4013: 'dif' undefined; assuming extern returning int
+C:\Git\Exemplu-TP\Exemplu\Exemplu\Source.c(34,11): warning C4013: 'impartire' undefined; assuming extern returning int
+  Exemplu.vcxproj -> C:\Git\Exemplu-TP\Exemplu\x64\Debug\Exemplu.exe
